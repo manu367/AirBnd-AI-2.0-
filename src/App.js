@@ -1,10 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
     <>
-    <h1>hello manu pathak</h1>
+    <p>this is manu pathak and mere time mast chal rha h bro</p>
     </>
   );
 }
